@@ -1,0 +1,14 @@
+{
+    "servers": [
+        {
+            "label": "Server 1",
+            "url": "https://portalcbt.man1klaten.sch.id/",
+            "color": "#1D7E4A"
+        },
+        {
+            "label": "Server 2",
+            "url": "https://ujian.man1klaten.sch.id/",
+            "color": "#1D7E4A"
+        }
+    ]
+}
