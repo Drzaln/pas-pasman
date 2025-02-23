@@ -2,12 +2,12 @@
     "servers": [
         {
             "label": "Server 1",
-            "url": "https://portalcbt.man1klaten.sch.id/",
+            "url": "http://exam.man1klaten.sch.id/",
             "color": "#1D7E4A"
         },
         {
-            "label": "Server 2",
-            "url": "https://ujian.man1klaten.sch.id/",
+            "label": "Server 4",
+            "url": "portujian.man1klaten.sch.id",
             "color": "#1D7E4A"
         }
     ]
