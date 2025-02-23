@@ -2,12 +2,12 @@
     "servers": [
         {
             "label": "Server 1",
-            "url": "exam.man1klaten.sch.id/",
+            "url": "https://exam.man1klaten.sch.id/",
             "color": "#1D7E4A"
         },
         {
             "label": "Server 2",
-            "url": "portujian.man1klaten.sch.id",
+            "url": "https://portujian.man1klaten.sch.id",
             "color": "#1D7E4A"
         }
     ]
