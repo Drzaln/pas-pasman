@@ -2,7 +2,7 @@
     "servers": [
         {
             "label": "Server 1",
-            "url": "http://exam.man1klaten.sch.id/",
+            "url": "exam.man1klaten.sch.id/",
             "color": "#1D7E4A"
         },
         {
